@@ -196,4 +196,3 @@ The system utilizes the `mistral-large-latest` model to process tender titles in
 
 ---
 
-### Would you like me to generate the `requirements.txt` file or a `Dockerfile` to containerize this setup?
