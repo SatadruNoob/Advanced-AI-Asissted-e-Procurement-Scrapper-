@@ -77,6 +77,13 @@ The system utilizes `database/multi_portal_tenders.db` with the following core s
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90fd8fdd-e02a-4e09-9aae-e73a7583384f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcb52300-29fc-42eb-8c21-d9923779443c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24f6aba8-3866-4c7d-b8ba-f67649c5ae78" />
+
+
+
+
 ## ⚙️ Installation
 
 ### 1. Clone & Setup
